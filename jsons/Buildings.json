@@ -1,0 +1,58 @@
+[
+	  {
+        "name": "Tempio di Maria Mater",
+        "uniqueTo": "Nikelino",
+        "isWonder": "true",
+        "requiredTech": "Agriculture",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
+            "Free [Paolo Magno] appears",
+            "Gain a free [Monument] [in this city]",
+            "Automatically built in all cities where it is buildable"],
+        },
+	{
+		"name": "Tempio di Eleonora",
+		"replaces": "Circus Maximus",
+		"uniqueTo": "Nikelino",
+		"cost": 480,
+		"happiness": 12,
+		"culture": 12,
+		"science": 12,
+		"maintenance": 10,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Colosseum",
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Lupanare",
+		"replaces": "Circus",
+		"uniqueTo": "Nikelino",
+		"cost": 80,
+		"happiness": 7,
+		"maintenance": 2,
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Tempio di Agnese Maria",
+		"replaces": "Circus Maximus",
+		"uniqueTo": "Shardana",
+		"cost": 480,
+		"happiness": 12,
+		"culture": 12,
+		"science": 12,
+		"maintenance": 10,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Colosseum",
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Tempio dei draghi",
+		"replaces": "Circus",
+		"uniqueTo": "Shardana",
+		"cost": 80,
+		"happiness": 7,
+		"maintenance": 2,
+		"requiredTech": "Engineering"
+	}
+]

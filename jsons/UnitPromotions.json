@@ -1,0 +1,19 @@
+[
+{
+		"name": "Nikelino in aeternum est",
+		"uniques": ["Can move immediately once bought",
+			"[+15]% Strength <vs [Barbarian] units>"]
+},
+{
+		"name": "Pictish Courage", // only for Guerriero Taurino and subsequent upgrades
+		"uniques": ["No movement cost to pillage", "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
+},
+  {
+		"name": "Sangue di Drago", // only for Guerriero sardo and subsequent upgrades
+		"uniques": ["[-20]% Strength for enemy [Military] units in adjacent [All] tiles"]
+	},
+	{
+		"name": "Imperator Mundi",
+		"uniques": ["Can see invisible [All] units"]
+	}
+]

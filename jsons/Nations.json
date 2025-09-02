@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Nikelino",
+		"leaderName": "Paolo Magno",
+		"adjective": ["nikelinese"],
+		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "ORGASMO DI ELE",
+		
+		"startIntroPart1": "In principio era l'Orgasmo, e l'Orgasmo era presso Eleonora, e l'Orgasmo era Eleonora. Paolo ottenne l'Orgasmo da Eleonora e decise di donarlo al mondo.",
+        "startIntroPart2": "Fonda Nikelino, offri a tutte le donne e gli uomini l'occasione di vivere nel tuo impero e diffondi l'Orgasmo nel Mondo!",
+		
+		"declaringWar": "Noi siamo Nikelino. Preparatevi a essere assimilati, la resistenza è inutile",
+		"attacked": "Vuoi sfidare Nikelino? Molto divertente!",
+		"defeated": "Incredibile: siamo stati sconfitti. Quante generazioni dovranno passare affinchè torni la luce nel mondo?",
+		"introduction": "Oggi il fato vi ha offerto il regalo più grande: potete finalmente unirvi al nostro impero!",
+		
+		"neutralHello": "Salute viaggiatori, cosa vi porta fin qui?",
+		"neutralLetsHearIt": ["Salute viaggiatori.","Che novità portate?","Siete benvenuti."],
+		"neutralNo": ["Assolutamente no.","No!","Non se ne parla."],
+		"neutralYes": ["Molto bene.","Certamente.","E' un piacere fare affare con voi."],
+
+		"hateHello": "Cosa vuoi ora?",
+		"hateLetsHearIt": ["Parla!","Cosa dici?","Dimmi."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [70,0,118],
+		"innerColor": [240,199,0],
+		"uniqueName": "Gloria di Nikelino e Assimilazione culturale", 
+		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital", "[All] units gain the [Nikelino in aeternum est] promotion","Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"],
+		"cities": ["Nikelino","Roma","Paola Taurinorum","Caralis","Abellinum","Pompeii","Herculaneum","Antiochia",
+            "Alexandria","Cesarea","Petra Paola", "Capua","Aquileia"]
+     },
+    {
+        "name": "Shardana",
+        "leaderName": "Nora Madre dei Draghi",
+        "adjective": ["sardi"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+
+        "startIntroPart1": "Un’isola forgiata dal fuoco e dal vento, terra dei Giganti di pietra, dei guerrieri senza paura, dei custodi dei nuraghe. I Shardana, signori delle onde, invincibili sotto l’elmo cornuto.",
+        "startIntroPart2": "Nora, madre dei draghi e signora di tutti i viventi, raduna le genti, difendi i nuraghe, sfida i nemici venuti da terre lontane. La Sardegna ti chiama. Onora il mare. Onora la pietra. Onora il tuo destino!",
+		
+		"declaringWar": "Dai nuraghe si levano fiamme e corni di guerra. Preparati: la Sardegna non piega la testa, mai!",
+		"attacked": "Vuoi giocare? Molto divertente!",
+		"defeated": "Incredibile: siamo stati sconfitti. Quante generazioni dovranno passare affinchè torni la luce nel mondo?",
+		"introduction": "Oggi il fato vi ha offerto il regalo più grande: potete finalmente unirvi al nostro impero!",
+		
+		"neutralHello": "Salute viaggiatori, cosa vi porta fin qui?",
+		"neutralLetsHearIt": ["Salute viaggiatori.","Che novità portate?","Siete benvenuti."],
+		"neutralNo": ["Assolutamente no.","No!","Non se ne parla."],
+		"neutralYes": ["Molto bene.","Certamente.","E' un piacere fare affare con voi."],
+
+		"hateHello": "Cosa vuoi ora?",
+		"hateLetsHearIt": ["Parla!","Cosa dici?","Dimmi."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [217,89,0],
+		"innerColor": [255,255,75],
+		"uniqueName": "Dominio del mare e Giuramento di sangue",
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+            "[+1] Sight <for [Embarked] units>",  "[+10]% Strength <within [2] tiles of a [Moai]>", "Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"],
+		"cities": ["Cunnu de Nora","Barumini","Nuraghe Arrubiu","Terraseo","Samatzai","Nuraminis","Monte Prama","Tiscali"]
+		}
+		]

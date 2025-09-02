@@ -35,7 +35,8 @@
 		"cities": ["Nikelino","Roma","Paola Taurinorum","Caralis","Abellinum","Pompeii","Herculaneum","Antiochia",
             "Alexandria","Cesarea","Petra Paola", "Capua","Aquileia"]
      },
-	"name": "Sith",
+	 {
+		"name": "Sith",
 		"leaderName": "Oscuro Signore",
 		"adjective": ["sith"],
 		"startBias": ["Desert"],

@@ -76,6 +76,7 @@
         "adjective": ["sardi"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Sardegna",
 
         "startIntroPart1": "Un’isola forgiata dal fuoco e dal vento, terra dei Giganti di pietra, dei guerrieri senza paura, dei custodi dei nuraghe. I Shardana, signori delle onde, invincibili sotto l’elmo cornuto.",
         "startIntroPart2": "Nora, madre dei draghi e signora di tutti i viventi, raduna le genti, difendi i nuraghe, sfida i nemici venuti da terre lontane. La Sardegna ti chiama. Onora il mare. Onora la pietra. Onora il tuo destino!",

@@ -11,7 +11,19 @@
             "Gain a free [Monument] [in this city]",
             "Automatically built in all cities where it is buildable"],
         },
-	{
+	    {
+        "name": "Grande Tempio del Lato Oscuro",
+        "uniqueTo": "Sith",
+        "isWonder": "true",
+        "requiredTech": "Calendar",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["[+2 Faith, +1 Food] [in all cities]",
+            "Free [Signore Oscuro] appears",
+            "Free [Apprendista Sith] appears",
+            "Automatically built in all cities where it is buildable"],
+        },
+	    {
 		"name": "Tempio di Eleonora",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Nikelino",

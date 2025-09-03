@@ -1,8 +1,10 @@
 [
     {
-		"name": "Schiavo", /* Immagine DA IMPOSTARE */
+		"name": "Schiavo dell'Oscuro Signore", /* Immagine DA IMPOSTARE */
 		"unitType": "Civilian",
 		"uniqueTo": "Sith",
+		"replaces": "Worker",
+		"CapturedUnit": "Worker",
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 20

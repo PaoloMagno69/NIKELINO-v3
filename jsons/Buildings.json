@@ -12,6 +12,18 @@
             "Automatically built in all cities where it is buildable"],
         },
 	    {
+        "name": "Tempio dei Draghi",
+        "uniqueTo": "Shardana",
+        "isWonder": "true",
+        "requiredTech": "Agriculture",
+        "cost": 1,
+        "science": 1,
+        "uniques": ["[+1 Happiness, +1 Faith, +1 Food] [in all cities]",
+            "Free [Nora Madre dei Draghi] appears",
+            "Gain a free [Monument] [in this city]",
+            "Automatically built in all cities where it is buildable"],
+        },
+	    {
         "name": "Grande Tempio del Lato Oscuro",
         "uniqueTo": "Sith",
         "isWonder": "true",

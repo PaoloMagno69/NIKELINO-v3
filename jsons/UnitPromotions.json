@@ -17,6 +17,10 @@
 		"uniques": ["Can see invisible [All] units"]
 	},
 	{
+		"name": "Sith Eternal",
+		"uniques": ["Can see invisible [All] units"]
+	},
+	{
 		"name": "Lato Oscuro", // Per tutti i Sith
 		"uniques": ["[+15]% Strength"]
 	}

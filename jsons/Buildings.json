@@ -31,7 +31,7 @@
         "cost": 1,
         "science": 1,
         "uniques": ["[+2 Faith, +1 Food] [in all cities]",
-            "Free [Signore Oscuro] appears",
+            "Free [Oscuro Signore] appears",
             "Free [Apprendista Sith] appears",
             "Automatically built in all cities where it is buildable"],
         },

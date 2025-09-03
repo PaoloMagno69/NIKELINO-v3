@@ -1,5 +1,37 @@
 [
     {
+		"name": "Nora Madre dei Draghi", /* Immagine Roal DA IMPOSTARE */
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 17,
+		"cost": 500,
+		"uniques": [
+			"[+20]% Strength bonus for [Military] units within [2] tiles",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"Uncapturable",
+			"Limited to [1] per Civilization",
+			"Only available <in cities with a [Tempio dei Draghi]>",
+			"[+100]% XP gained from combat",
+			"Heals [25] damage if it kills a unit",
+			"[+50]% Strength <for every [Era number]>",
+			"[+25]% Strength <starting from the [Modern era]>",
+			"[+25]% Strength <starting from the [Atomic era]>",
+			"[+25]% Strength <starting from the [Information era]>",
+			"[+25]% Strength <starting from the [Future era]>",
+			"[+1] Movement <starting from the [Renaissance era]>",
+			"[+1] Movement <starting from the [Modern era]>",
+			"[+1] Movement <starting from the [Information era]>",
+			"Cost increases by [50] when built",
+			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
+			"Gain [-50] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-50] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-100] [Gold] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
+		],
+		"promotions": ["Mater Draconum"],
+		"attackSound": "metalhit"
+	},	
+	{
 		"name": "Schiavo Oscuro Signore", /* Immagine DA IMPOSTARE */
 		"unitType": "Civilian",
 		"uniqueTo": "Sith",

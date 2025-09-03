@@ -1,6 +1,6 @@
 [
     {
-		"name": "Schiavo dell'Oscuro Signore", /* Immagine DA IMPOSTARE */
+		"name": "Schiavo Oscuro Signore", /* Immagine DA IMPOSTARE */
 		"unitType": "Civilian",
 		"uniqueTo": "Sith",
 		"replaces": "Worker",

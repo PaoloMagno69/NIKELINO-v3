@@ -4,13 +4,6 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/AbsoluteUnits/Units/Paolo Magno
-  rotate: false
-  xy: 725, 1503
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
 TileSets/AbsoluteUnits/Units/Dacio
   rotate: false
   xy: 313, 674
@@ -19,13 +12,6 @@ TileSets/AbsoluteUnits/Units/Dacio
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Germano
-  rotate: false
-  xy: 519, 1236
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Guerriero sardo
   rotate: false
   xy: 519, 1236
   size: 95, 81
@@ -199,13 +185,6 @@ TileSets/AbsoluteUnits/Units/Amazzone a cavallo
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Sacerdotessa Lupa
-  rotate: false
-  xy: 1252, 1564
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
 TileSets/AbsoluteUnits/Units/Guerriera amazzone
   rotate: false
   xy: 212, 212
@@ -214,7 +193,39 @@ TileSets/AbsoluteUnits/Units/Guerriera amazzone
   offset: 0, 0
   index: -1
 
-
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/AbsoluteUnits/Units/Paolo Magno
+  rotate: false
+  xy: 725, 1503
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/
+  rotate: false
+  xy: 725, 1503
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Sacerdotessa Lupa
+  rotate: false
+  xy: 1252, 1564
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Guerriero sardo
+  rotate: false
+  xy: 519, 1236
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 ReligionIcons/Orgasmo di Ele
   rotate: false
   xy: 880, 876
@@ -223,4 +234,5 @@ ReligionIcons/Orgasmo di Ele
   offset: 0, 0
   index: -1
 ReligionIcons/Lato Oscuro della Forza
+ReligionIcons/Ichnusa
     	

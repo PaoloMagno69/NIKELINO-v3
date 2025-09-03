@@ -1,6 +1,14 @@
 [
     {
-		"name": "Paolo Magno",
+		"name": "Schiavo",
+		"unitType": "Civilian",
+		"uniqueTo": "Sith",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 20
+	},
+	{
+		"name": "Paolo Magno", /* Immagine Roal DA IMPOSTARE */
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 17,

@@ -5,7 +5,7 @@
 		"adjective": ["nikelinese"],
 		"startBias": ["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
-		"favoredReligion": "ORGASMO DI ELE",
+		"favoredReligion": "Orgasmo di Ele",
 		
 		"startIntroPart1": "In principio era l'Orgasmo, e l'Orgasmo era presso Eleonora, e l'Orgasmo era Eleonora. Paolo ottenne l'Orgasmo da Eleonora e decise di donarlo al mondo.",
         "startIntroPart2": "Fonda Nikelino, offri a tutte le donne e gli uomini l'occasione di vivere nel tuo impero e diffondi l'Orgasmo nel Mondo!",
@@ -77,7 +77,7 @@
         "adjective": ["sardi"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
-		"favoredReligion": "Sardegna",
+		"favoredReligion": "Ichnusa",
 
         "startIntroPart1": "Un’isola forgiata dal fuoco e dal vento, terra dei Giganti di pietra, dei guerrieri senza paura, dei custodi dei nuraghe. I Shardana, signori delle onde, invincibili sotto l’elmo cornuto.",
         "startIntroPart2": "Nora, madre dei draghi e signora di tutti i viventi, raduna le genti, difendi i nuraghe, sfida i nemici venuti da terre lontane. La Sardegna ti chiama. Onora il mare. Onora la pietra. Onora il tuo destino!",

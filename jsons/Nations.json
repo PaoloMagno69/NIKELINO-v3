@@ -22,8 +22,8 @@
 
 		"hateHello": "Cosa vuoi ora?",
 		"hateLetsHearIt": ["Parla!","Cosa dici?","Dimmi."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateNo": ["Non è possibile!","Non siamo d'accordo!","Come ti scusi?"],
+		"hateYes": ["Va bene.","Questo è sufficiente.","Ottimo..."],
 		
 		"afterPeace": "Molto bene, tutti quei combattimenti stavano diventando noiosi comunque.",
 		"tradeRequest": "Vi concediamo l'onore di questa offerta commerciale.",

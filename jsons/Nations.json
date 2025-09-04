@@ -25,8 +25,8 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Molto bene, tutti quei combattimenti stavano diventando noiosi comunque.",
+		"tradeRequest": "Vi concediamo l'onore di questa offerta commerciale.",
 
 		"outerColor": [70,0,118],
 		"innerColor": [240,199,0],
@@ -43,15 +43,15 @@
 		"preferredVictoryType": "Domination",
 		"favoredReligion": "Lato Oscuro",
 		
-		"startIntroPart1": "In principio era // COMPLETARE TESTO.",
-        "startIntroPart2": "Fonda // COMPLETARE TESTO",
+		"startIntroPart1": "La pace è una menzogna, c'è solo la passione. Dalla passione ottengo la forza. Dalla forza ottengo il potere. Dal potere ottengo la vittoria. Grazie alla vittoria le mie catene vengono spezzate. La Forza mi libererà. (Codice dei Sith)",
+        "startIntroPart2": "Sotto le vecchie regole, un leader potente avrebbe potuto essere rovesciato dall'unione delle forze di molti Sith inferiori. Era inevitabile, un ciclo che si ripeteva e indeboliva l'Ordine. Ora tutto ciò che facciamo è guidato dalla Regola dei Due: un Maestro e un Apprendista per la gloria dei Sith!",
 		
 		"declaringWar": "Tutto è sotto il controllo dei Sith, solo che questo tu non lo sai.",
-		"attacked": "Vuoi sfidare l'Oscuro Signore? DAVVERO?!",
-		"defeated": "Incredibile: siamo stati sconfitti. // COMPLETARE TESTO",
+		"attacked": "Vuoi sfidare l'Oscuro Signore, il grande Maestro Sith? DAVVERO?!",
+		"defeated": "Ero talmente potente che l'unica cosa di cui avevo paura era perdere il mio potere. Cosa che alla fine è accadduta. Che ironia. Salvavo altri dalla morte, ma non ho salvato mé stesso.",
 		"introduction": "Passate al lato oscuro della Forza!",
 		
-		"neutralHello": "Stranieri, l'Oscuro Signore è pronto ad accogliervi tra i9 suoi sudditi",
+		"neutralHello": "Stranieri, l'Oscuro Signore è pronto ad accogliervi tra i suoi sudditi",
 		"neutralLetsHearIt": ["Salute futuri Sith."],
 		"neutralNo": ["Assolutamente no.","No!","Non se ne parla."],
 		"neutralYes": ["Molto bene.","Certamente.","E' un piacere fare affare con voi."],
@@ -61,8 +61,8 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Molto bene. Vi concederemo la vita anche senza sottomisione, per ora.",
+		"tradeRequest": "Vi concediamo questo scambio, finché converrà ai Sith.",
 
 		"outerColor": [0,0,8],
 		"innerColor": [100,0,0],
@@ -71,7 +71,7 @@
 		"cities": ["Exegol","Barad-dûr","Nurmengard","Azkaban","Mustafar","Riddle Manor","Malachor",
             "Fortezza Kaioh","Stella della Morte"]
      },
-    {
+     {
         "name": "Shardana",
         "leaderName": "Nora Madre dei Draghi",
         "adjective": ["sardi"],

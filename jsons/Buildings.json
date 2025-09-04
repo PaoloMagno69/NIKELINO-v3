@@ -2,7 +2,7 @@
 	  {
         "name": "Tempio di Maria Mater",
         "uniqueTo": "Nikelino",
-        "isWonder": "true",
+        "isWonder": true,
         "requiredTech": "Agriculture",
         "cost": 1,
         "science": 1,
@@ -16,7 +16,7 @@
         "name": "Statua di Gerardo Optimus Maximo",
 	    "replaces": "Statue of Zeus",
         "uniqueTo": "Nikelino",
-        "isWonder": "true",
+        "isWonder": true,
         "requiredTech": "Bronze Working",
         "cost": 1,
         "culture": 1,
@@ -26,7 +26,7 @@
 	    {
         "name": "Tempio dei Draghi",
         "uniqueTo": "Shardana",
-        "isWonder": "true",
+        "isWonder": true,
         "requiredTech": "Agriculture",
         "cost": 1,
         "science": 1,
@@ -39,7 +39,7 @@
 	    {
         "name": "Grande Tempio del Lato Oscuro",
         "uniqueTo": "Sith",
-        "isWonder": "true",
+        "isWonder": true,
         "requiredTech": "Calendar",
         "cost": 1,
         "science": 1,

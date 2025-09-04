@@ -59,7 +59,7 @@
 		"hateHello": "Cosa vuoi ora?",
 		"hateLetsHearIt": ["Parla!","Cosa dici?","Dimmi."],
 		"hateNo": ["Non è possibile stolto!","Non se ne parla, infima creatura!","Cosa hai osato chiedere?!"],
-		"hateYes": ["Va bene, per questa volta.","That is good enough.","Very well..."],
+		"hateYes": ["Va bene, per questa volta.","Questo è buono, per questa volta.","Sufficiente, per oggi..."],
 		
 		"afterPeace": "Molto bene. Vi concederemo la vita anche senza sottomisione, per ora.",
 		"tradeRequest": "Vi concediamo questo scambio, finché converrà ai Sith.",
@@ -94,11 +94,11 @@
 
 		"hateHello": "Cosa vuoi ora?",
 		"hateLetsHearIt": ["Parla!","Cosa dici?","Dimmi."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateNo": ["Questo non è possibile!","Non siamo d'accordo!","Come ti scusi?"],
+		"hateYes": ["Va bene.","Ok, è abbastanza.","Ok, bene..."],
 
 		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateLetsHearIt": ["Parla!","Cosa devi dirmi?","Dimmi!"],
 		"hateNo": ["Non è possibile!","Non siamo d'accordo!","Come ti scusi?"],
 		"hateYes": ["Va bene.","Questo è sufficiente.","Ottimo..."],
 		

@@ -1,6 +1,39 @@
 [
-    {
-		"name": "Nora Madre dei Draghi", /* Immagine Roal DA IMPOSTARE */
+    /* CAMPIONI DELLE CIVILTA' */
+	{
+		"name": "Paolo Magno", /* Immagine Roal DA IMPOSTARE */
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 17,
+		"cost": 500,
+		"uniques": [
+			"[+20]% Strength bonus for [Military] units within [2] tiles",
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"Uncapturable",
+			"Limited to [1] per Civilization",
+			"Only available <in cities with a [Tempio di Maria Mater]>",
+			"[+100]% XP gained from combat",
+			"Heals [25] damage if it kills a unit",
+			"[+50]% Strength <for every [Era number]>",
+			"[+25]% Strength <starting from the [Modern era]>",
+			"[+25]% Strength <starting from the [Atomic era]>",
+			"[+25]% Strength <starting from the [Information era]>",
+			"[+25]% Strength <starting from the [Future era]>",
+			"[+1] Movement <starting from the [Renaissance era]>",
+			"[+1] Movement <starting from the [Modern era]>",
+			"[+1] Movement <starting from the [Information era]>",
+			"Cost increases by [50] when built",
+			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
+			"Gain [-50] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-50] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-100] [Gold] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
+		],
+		"promotions": ["Imperator Mundi"],
+		"attackSound": "metalhit"
+	},	
+	{
+		"name": "Nora Madre dei Draghi", /* Immagine DA IMPOSTARE */
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 17,
@@ -29,48 +62,6 @@
 			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
 		],
 		"promotions": ["Mater Draconum"],
-		"attackSound": "metalhit"
-	},	
-	{
-		"name": "Schiavo Oscuro Signore", /* Immagine DA IMPOSTARE */
-		"unitType": "Civilian",
-		"uniqueTo": "Sith",
-		"replaces": "Worker",
-		"CapturedUnit": "Worker",
-		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-		"cost": 20
-	},
-	{
-		"name": "Apprendista Sith", /* Immagine DA IMPOSTARE */
-		"unitType": "Sword",
-		"movement": 2,
-		"strength": 10,
-		"cost": 500,
-		"uniques": [
-			"[+5]% Strength bonus for [Military] units within [2] tiles",
-			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
-			"Uncapturable",
-			"Limited to [1] per Civilization",
-			"Only available <in cities with a [Grande Tempio del Lato Oscuro]>",
-			"[+25]% XP gained from combat",
-			"Heals [25] damage if it kills a unit",
-			"[+20]% Strength <for every [Era number]>",
-			"[+10]% Strength <starting from the [Modern era]>",
-			"[+10]% Strength <starting from the [Atomic era]>",
-			"[+10]% Strength <starting from the [Information era]>",
-			"[+10]% Strength <starting from the [Future era]>",
-			"[+1] Movement <starting from the [Renaissance era]>",
-			"[+1] Movement <starting from the [Modern era]>",
-			"[+1] Movement <starting from the [Information era]>",
-			"Cost increases by [50] when built",
-			"[-20]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
-			"Gain [-20] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
-			"Gain [-20] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
-			"Gain [-50] [Gold] <(modified by game speed)> <upon being defeated> <hidden from users>",
-			"Comment [Lose [-20 Culture, -20 Science, -50 Gold] upon being defeated]"
-		],
-		"promotions": ["Sith Eternal"],
 		"attackSound": "metalhit"
 	},	
 	{
@@ -106,37 +97,48 @@
 		"attackSound": "metalhit"
 	},	
 	{
-		"name": "Paolo Magno", /* Immagine Roal DA IMPOSTARE */
+		"name": "Apprendista Sith", /* Immagine DA IMPOSTARE */
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 17,
+		"strength": 10,
 		"cost": 500,
 		"uniques": [
-			"[+20]% Strength bonus for [Military] units within [2] tiles",
+			"[+5]% Strength bonus for [Military] units within [2] tiles",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Uncapturable",
 			"Limited to [1] per Civilization",
-			"Only available <in cities with a [Tempio di Maria Mater]>",
-			"[+100]% XP gained from combat",
+			"Only available <in cities with a [Grande Tempio del Lato Oscuro]>",
+			"[+25]% XP gained from combat",
 			"Heals [25] damage if it kills a unit",
-			"[+50]% Strength <for every [Era number]>",
-			"[+25]% Strength <starting from the [Modern era]>",
-			"[+25]% Strength <starting from the [Atomic era]>",
-			"[+25]% Strength <starting from the [Information era]>",
-			"[+25]% Strength <starting from the [Future era]>",
+			"[+20]% Strength <for every [Era number]>",
+			"[+10]% Strength <starting from the [Modern era]>",
+			"[+10]% Strength <starting from the [Atomic era]>",
+			"[+10]% Strength <starting from the [Information era]>",
+			"[+10]% Strength <starting from the [Future era]>",
 			"[+1] Movement <starting from the [Renaissance era]>",
 			"[+1] Movement <starting from the [Modern era]>",
 			"[+1] Movement <starting from the [Information era]>",
 			"Cost increases by [50] when built",
-			"[-10]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
-			"Gain [-50] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
-			"Gain [-50] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
-			"Gain [-100] [Gold] <(modified by game speed)> <upon being defeated> <hidden from users>",
-			"Comment [Lose [-50 Culture, -50 Science, -100 Gold] upon being defeated]"
+			"[-20]% Strength <for [All] units> <for [10] turns> <upon being defeated>",
+			"Gain [-20] [Science] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-20] [Culture] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Gain [-50] [Gold] <(modified by game speed)> <upon being defeated> <hidden from users>",
+			"Comment [Lose [-20 Culture, -20 Science, -50 Gold] upon being defeated]"
 		],
-		"promotions": ["Imperator Mundi"],
+		"promotions": ["Sith Eternal"],
 		"attackSound": "metalhit"
 	},	
+	{
+		"name": "Schiavo Oscuro Signore", /* Immagine DA IMPOSTARE */
+		"unitType": "Civilian",
+		"uniqueTo": "Sith",
+		"replaces": "Worker",
+		"CapturedUnit": "Worker",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 20
+	},
+	
 	{
     "name": "Sacerdotessa Lupa",
     "unitType": "Civilian",

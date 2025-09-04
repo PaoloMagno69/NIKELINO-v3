@@ -58,8 +58,8 @@
 
 		"hateHello": "Cosa vuoi ora?",
 		"hateLetsHearIt": ["Parla!","Cosa dici?","Dimmi."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateNo": ["Non è possibile stolto!","Non se ne parla, infima creatura!","Cosa hai osato chiedere?!"],
+		"hateYes": ["Va bene, per questa volta.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Molto bene. Vi concederemo la vita anche senza sottomisione, per ora.",
 		"tradeRequest": "Vi concediamo questo scambio, finché converrà ai Sith.",

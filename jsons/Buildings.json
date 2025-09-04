@@ -12,6 +12,17 @@
             "Automatically built in all cities where it is buildable"],
         },
 	    {
+        "name": "Tempio di Gerardo Optimus Maximo",
+	    "replaces": "Statue of Zeus",
+        "uniqueTo": "Nikelino",
+        "isWonder": "true",
+        "requiredTech": "Bronze Working",
+        "cost": 1,
+        "culture": 1,
+        "uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
+		"quote": "'BLA BLA BLA BLA"
+        },
+	    {
         "name": "Tempio dei Draghi",
         "uniqueTo": "Shardana",
         "isWonder": "true",

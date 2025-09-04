@@ -47,7 +47,7 @@
             "Free [Oscuro Signore] appears",
             "Free [Apprendista Sith] appears",
             "Automatically built in all cities where it is buildable"],
-		"quote": "Bruciamo l'incenso in onore di Gerardo Optimus Maximo, signore di forza e rettitudine, padre e guida degli uomini."
+		"quote": "Nel desiderio e nella passione risiede la vera forza: l’oscurità plasma i forti e consuma i deboli."
         },
 	    {
 		"name": "Tempio di Eleonora",
@@ -60,7 +60,8 @@
 		"maintenance": 10,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Horseback Riding",
+		"quote": "Nel Tempio di Eleonora, la lussuria non è peccato ma arma. Solo chi osa abbracciare il piacere potrà dominare."
 	},
 	{
 		"name": "Lupanare",
@@ -82,15 +83,7 @@
 		"maintenance": 10,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Tempio dei draghi",
-		"replaces": "Circus",
-		"uniqueTo": "Shardana",
-		"cost": 80,
-		"happiness": 7,
-		"maintenance": 2,
-		"requiredTech": "Engineering"
-	}
+		"requiredTech": "Horseback Riding",
+		"quote": "Qui regna la figlia divina, colei che porta pace ai cuori, giustizia ai re e speranza agli uomini."
+	}	
 ]

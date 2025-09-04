@@ -156,7 +156,33 @@
       "Can be captured (like a Settler)"
        ]
        },
-	/* UNITA' UNICHE STANDARD*/
+	   {
+		"name": "Gigante di Mont'e Prama",
+		"unitType": "Civilian",
+		"uniqueTo": "Shardana",
+		"cost": 100,
+		"requiredTech": "Masonry",
+		"uniques": [
+            "[+15]% Strength bonus for [Military] units within [2] tiles",
+			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
+            "Can instantly construct a [Nuraghe] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+            "Great Person - [War]", "Uncapturable"],
+		"movement": 5
+	   },
+	   {
+		"name": "Jana",
+		"unitType": "Civilian",
+		"uniqueTo": "Shardana",
+		"cost": 60,
+		"requiredTech": "Pottery",
+		"uniques": [
+            "Can instantly construct a [Domu de Janas] improvement <by consuming this unit>",
+			"Uncapturable"],
+		"movement": 2
+	   },
+	    /* UNITA' UNICHE STANDARD*/
 	    {
 		"name": "Tracio",
 		"unitType": "Sword",

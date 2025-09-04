@@ -387,6 +387,6 @@
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "elephant"
-	},
+	}
 	
 ]

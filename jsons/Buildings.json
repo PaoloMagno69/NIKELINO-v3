@@ -10,9 +10,10 @@
             "Free [Paolo Magno] appears",
             "Gain a free [Monument] [in this city]",
             "Automatically built in all cities where it is buildable"],
+		"quote": "In questo luogo sacro, la Madre accoglie i figli di ogni tempo, guidandoli con luce di fede e forza di speranza."
         },
 	    {
-        "name": "Tempio di Gerardo Optimus Maximo",
+        "name": "Statua di Gerardo Optimus Maximo",
 	    "replaces": "Statue of Zeus",
         "uniqueTo": "Nikelino",
         "isWonder": "true",
@@ -20,7 +21,7 @@
         "cost": 1,
         "culture": 1,
         "uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
-		"quote": "'BLA BLA BLA BLA"
+		"quote": "Bruciamo l'incenso in onore di Gerardo Optimus Maximo, signore di forza e rettitudine, padre e guida degli uomini."
         },
 	    {
         "name": "Tempio dei Draghi",
@@ -33,6 +34,7 @@
             "Free [Nora Madre dei Draghi] appears",
             "Gain a free [Monument] [in this city]",
             "Automatically built in all cities where it is buildable"],
+		"quote": "Nel Tempio dei Draghi, il fuoco sacro dona forza alla Sardegna e alle genti dell’impero; i draghi non portarono solo fiamma, ma risveglio e potere eterno."
         },
 	    {
         "name": "Grande Tempio del Lato Oscuro",
@@ -45,6 +47,7 @@
             "Free [Oscuro Signore] appears",
             "Free [Apprendista Sith] appears",
             "Automatically built in all cities where it is buildable"],
+		"quote": "Bruciamo l'incenso in onore di Gerardo Optimus Maximo, signore di forza e rettitudine, padre e guida degli uomini."
         },
 	    {
 		"name": "Tempio di Eleonora",

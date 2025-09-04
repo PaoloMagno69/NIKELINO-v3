@@ -152,6 +152,7 @@
       "Unbuildable by other Civilizations",
       "Only buildable in capital",
       "When this unit is present, player gains +1 Happiness per turn",
+	  "May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
       "Can be captured (like a Settler)"
        ]
        },

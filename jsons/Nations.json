@@ -65,7 +65,7 @@
 		"tradeRequest": "Vi concediamo questo scambio, finché converrà ai Sith.",
 
 		"outerColor": [0,0,8],
-		"innerColor": [100,0,0],
+		"innerColor": [180,0,0],
 		"uniqueName": "Per il bene superiore", 
 		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital", "[All] units gain the [Lato Oscuro] promotion","Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns"],
 		"cities": ["Exegol","Barad-dûr","Nurmengard","Azkaban","Mustafar","Riddle Manor","Malachor",
@@ -99,11 +99,11 @@
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateNo": ["Non è possibile!","Non siamo d'accordo!","Come ti scusi?"],
+		"hateYes": ["Va bene.","Questo è sufficiente.","Ottimo..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Molto bene, tutti quei combattimenti stavano diventando noiosi comunque.",
+		"tradeRequest": "Vi concediamo l'onore di questa offerta commerciale.",
 
 		"outerColor": [217,89,0],
 		"innerColor": [255,255,75],

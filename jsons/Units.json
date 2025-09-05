@@ -131,6 +131,7 @@
 	{
 		"name": "Schiavo Oscuro Signore", /* Immagine DA IMPOSTARE */
 		"unitType": "Civilian",
+		"imageScale": 1.3,
 		"uniqueTo": "Sith",
 		"replaces": "Worker",
 		"CapturedUnit": "Worker",
@@ -141,6 +142,7 @@
 	/* Great people */
 	{
     "name": "Sacerdotessa Lupa",
+		"imageScale": 1.3,
     "unitType": "Civilian",
     "uniqueTo": "Nikelino",
     "cost": 60,
@@ -185,6 +187,7 @@
 	    /* UNITA' UNICHE STANDARD*/
 	    {
 		"name": "Tracio",
+			"imageScale": 1.3,
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -209,6 +212,7 @@
 	},
 	{
 		"name": "Arcere amazzone",
+		"imageScale": 1.3,
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -222,6 +226,7 @@
 	},
 		{
 		"name": "Dacio",
+			"imageScale": 1.2,
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -235,6 +240,7 @@
 	},
 		{
 		"name": "Unno",
+			"imageScale": 1.3,
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"movement": 4,
@@ -250,6 +256,7 @@
 	},
 	{
 		"name": "Oplite siracusano",
+		"imageScale": 1.3,
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -263,6 +270,7 @@
 	},
 	{
 		"name": "Guerriero Taurino",
+		"imageScale": 1.3,
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -277,6 +285,7 @@
 	},
 	{
 		"name": "Germano",
+		"imageScale": 1.3,
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,
@@ -290,6 +299,7 @@
 	},
 	{
 		"name": "Lanciere Nubiano",
+		"imageScale": 1.3,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 13,
@@ -315,6 +325,7 @@
 	},
 	{
 		"name": "Trireme sarda",
+		"imageScale": 1.3,
 		"unitType": "Melee Water",
 		"uniqueTo": "Shardana",
 		"replaces": "Trireme",
@@ -328,6 +339,7 @@
 	},
 	{
 		"name": "Ballista nikelinese",
+		"imageScale": 1.3,
 		"unitType": "Siege",
 		"replaces": "Catapult",
 		"uniqueTo": "Nikelino",
@@ -345,6 +357,7 @@
 	},
 	{
 		"name": "Legionario di Paolo",
+		"imageScale": 1.3,
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"replaces": "Swordsman",
@@ -361,6 +374,7 @@
 	},
 	{
 		"name": "Amazzone a cavallo",
+		"imageScale": 1.3,
 		"unitType": "Mounted",
 		"movement": 5,
 		"strength": 14,
@@ -375,6 +389,7 @@
 	},
 	{
 		"name": "Elefante africano",
+		"imageScale": 1.3,
 		"unitType": "Mounted",
 		"uniqueTo": "Nikelino",
 		"movement": 3,

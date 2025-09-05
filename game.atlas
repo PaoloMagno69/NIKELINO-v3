@@ -198,70 +198,63 @@ size: 820, 822
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-
-Nikelino
+NationIcons/Nikelino
   rotate: false
   xy: 0, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-
-Shardana
+NationIcons/Shardana
   rotate: false
   xy: 258, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-
-Sith
+NationIcons/Sith
   rotate: false
   xy: 516, 0
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-
-Ichnusa
+ReligionIcons/Ichnusa
   rotate: false
   xy: 0, 258
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-
-Lato_Oscuro
+ReligionIcons/Lato Oscuro
   rotate: false
   xy: 258, 258
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-
-Orgasmo
+ReligionIcons/Orgasmo di Ele
   rotate: false
   xy: 516, 258
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-
-TileSets/AbsoluteUnits/Units/Apprendista_Sith
+TileSets/AbsoluteUnits/Units/Apprendista Sith
   rotate: false
   xy: 0, 516
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Gigante_di_Mont'e_Prama
+TileSets/AbsoluteUnits/Units/Gigante di Mont'e Prama
   rotate: false
   xy: 202, 516
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Guerriero_sardo
+TileSets/AbsoluteUnits/Units/Guerriero sardo
   rotate: false
   xy: 404, 516
   size: 200, 200
@@ -275,51 +268,49 @@ TileSets/AbsoluteUnits/Units/Jana
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Nora_Madre_dei_Draghi
+TileSets/AbsoluteUnits/Units/Nora Madre dei Draghi
   rotate: false
   xy: 0, 718
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Oscuro_Signore
+TileSets/AbsoluteUnits/Units/Oscuro Signore
   rotate: false
   xy: 202, 718
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Paolo_Magno
+TileSets/AbsoluteUnits/Units/Paolo Magno
   rotate: false
   xy: 404, 718
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Sacerdotessa_Lupa
+TileSets/AbsoluteUnits/Units/Sacerdotessa Lupa
   rotate: false
   xy: 606, 718
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Schiavo_Oscuro_Signore
+TileSets/AbsoluteUnits/Units/Schiavo Oscuro Signore
   rotate: false
   xy: 0, 920
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-
-Domu_de_Janas
+TileSets/FantasyHex/Domu de Janas
   rotate: false
   xy: 202, 920
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-
-Nuraghe_(1)
+TileSets/FantasyHex/Nuraghe
   rotate: false
   xy: 332, 920
   size: 128, 128

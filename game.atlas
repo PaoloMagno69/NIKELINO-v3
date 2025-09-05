@@ -194,9 +194,9 @@ TileSets/AbsoluteUnits/Units/Guerriera amazzone
   index: -1
 
 game3.png
-size: 820, 822
+size: 1030, 1124
 format: RGBA8888
-filter: Linear,Linear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Nikelino
   rotate: false

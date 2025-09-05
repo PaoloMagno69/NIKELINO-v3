@@ -226,7 +226,7 @@
 	},
 		{
 		"name": "Dacio",
-			"imageScale": 1.2,
+			"imageScale": 1.3,
 		"unitType": "Archery",
 		"uniqueTo": "Nikelino",
 		"movement": 2,

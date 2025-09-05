@@ -134,7 +134,7 @@
 		"imageScale": 1.3,
 		"uniqueTo": "Sith",
 		"replaces": "Worker",
-		"Captured units become [Worker]",
+		"Captured units become": ["Worker"],
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 20

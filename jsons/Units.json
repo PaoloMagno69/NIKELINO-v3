@@ -197,6 +197,7 @@
 	{
 		"name": "Guerriera amazzone",
 		 "icon": "Guerriera amazzone",
+		 "imageScale": 1.3,
 		"unitType": "Sword",
 		"uniqueTo": "Nikelino",
 		"movement": 2,

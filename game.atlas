@@ -205,7 +205,7 @@ Nikelino1.png
   orig: 100,100
   offset: 0, 0
   index: -1
-NationIcons/Nikelino
+Nikelino2
   rotate: false
   xy: 0,100
   size: 100,100
@@ -219,7 +219,7 @@ Nikelino3.png
   orig: 81,100
   offset: 0, 0
   index: -1
-Nikelino4.png
+NationIcons/Nikelino
   rotate: false
   xy: 0,300
   size: 81,100

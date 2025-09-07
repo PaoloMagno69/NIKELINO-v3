@@ -2,14 +2,14 @@
   // Great Person improvements
 	{
 		"name": "Domu de Janas",
-		"imageScale": 0.3,
+		"imageScale": 0.1,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 6,
 		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Nuraghe",
-		"imageScale": 0.3,
+		"imageScale": 0.1,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Great Improvement",

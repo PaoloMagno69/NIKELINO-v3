@@ -198,14 +198,14 @@ size: 366,3060
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-NationIcons/Nikelino
+Nikelino1.png
   rotate: false
   xy: 0,0
   size: 100,100
   orig: 100,100
   offset: 0, 0
   index: -1
-Nikelino2.png
+NationIcons/Nikelino
   rotate: false
   xy: 0,100
   size: 100,100

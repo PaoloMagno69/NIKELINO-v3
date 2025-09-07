@@ -345,14 +345,14 @@ TileSets/AbsoluteUnits/Units/Schiavo Oscuro Signore
   orig: 200,200
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Domu de Janas
+TileSets/FantasyHex/Tiles/Domu de Janas
   rotate: false
   xy: 0,3055
   size: 35,35
   orig: 35,35
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Nuraghe
+TileSets/FantasyHex/Tiles/Nuraghe
   rotate: false
   xy: 0,3090
   size: 35,35

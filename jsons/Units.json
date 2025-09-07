@@ -2,7 +2,7 @@
     /* CAMPIONI DELLE CIVILTA' */
 	{
 		"name": "Paolo Magno", /* Immagine Roal DA IMPOSTARE */
-		"imageScale": 1.3,
+		"imageScale": 2,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 17,
@@ -35,7 +35,7 @@
 	},	
 	{
 		"name": "Nora Madre dei Draghi", /* Immagine DA IMPOSTARE */
-		"imageScale": 1.3,
+		"imageScale": 2,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 17,
@@ -68,7 +68,7 @@
 	},	
 	{
 		"name": "Oscuro Signore", /* Immagine DA IMPOSTARE */
-		"imageScale": 1.3,
+		"imageScale": 2,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 17,
@@ -101,7 +101,7 @@
 	},	
 	{
 		"name": "Apprendista Sith", /* Immagine DA IMPOSTARE */
-		"imageScale": 1.3,
+		"imageScale": 2,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 10,
@@ -134,7 +134,7 @@
 	},	
 	{
 		"name": "Schiavo Oscuro Signore", /* Immagine DA IMPOSTARE */
-		"imageScale": 1.3,
+		"imageScale": 2,
 		"unitType": "Civilian",
 		"imageScale": 1.3,
 		"uniqueTo": "Sith",
@@ -147,7 +147,7 @@
 	/* Great people */
 	{
     "name": "Sacerdotessa Lupa",
-		"imageScale": 1.3,
+		"imageScale": 2,
     "unitType": "Civilian",
     "uniqueTo": "Nikelino",
     "cost": 60,
@@ -319,7 +319,7 @@
 	},
 	{
 		"name": "Guerriero sardo",
-		"imageScale": 1.3,
+		"imageScale": 1.5,
 		"unitType": "Sword",
 		"uniqueTo": "Shardana",
 		"replaces": "Warrior",

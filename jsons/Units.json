@@ -35,7 +35,7 @@
 	},	
 	{
 		"name": "Nora Madre dei Draghi", /* Immagine DA IMPOSTARE */
-		"imageScale": 8,
+		"imageScale": 11,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 17,
@@ -320,7 +320,7 @@
 	},
 	{
 		"name": "Guerriero sardo",
-		"imageScale": 0.6,
+		"imageScale": 0.3,
 		"unitType": "Sword",
 		"uniqueTo": "Shardana",
 		"replaces": "Warrior",

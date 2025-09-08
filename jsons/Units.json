@@ -101,7 +101,7 @@
 	},	
 	{
 		"name": "Apprendista Sith", /* Immagine DA IMPOSTARE */
-		"imageScale": 1.5,
+		"imageScale": 1.1,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 10,

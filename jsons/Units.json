@@ -147,7 +147,7 @@
 	/* Great people */
 	{
     "name": "Sacerdotessa Lupa",
-		"imageScale": 1.5,
+		"imageScale": 1.7,
     "unitType": "Civilian",
     "uniqueTo": "Nikelino",
     "cost": 60,

@@ -192,170 +192,221 @@ TileSets/AbsoluteUnits/Units/Guerriera amazzone
   orig: 200, 200
   offset: 0, 0
   index: -1
- 
-game5.png
-size: 200,3125
+
+game6.png
+size: 2048, 4096
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 Nikelino1.png
   rotate: false
-  xy: 0,0
-  size: 100,100
-  orig: 100,100
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 Nikelino2.png
   rotate: false
-  xy: 0,100
-  size: 100,100
-  orig: 100,100
+  xy: 512, 0
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 Nikelino3.png
   rotate: false
-  xy: 0,200
-  size: 81,100
-  orig: 81,100
+  xy: 1024, 0
+  size: 81, 100
+  orig: 81, 100
   offset: 0, 0
   index: -1
 Nikelino4.png
   rotate: false
-  xy: 0,300
-  size: 81,100
-  orig: 81,100
-  offset: 0, 0
-  index: -1
-Nikelino5.png
-  rotate: false
-  xy: 0,400
-  size: 100,100
-  orig: 100,100
+  xy: 1536, 0
+  size: 81, 100
+  orig: 81, 100
   offset: 0, 0
   index: -1
 NationIcons/Nikelino
   rotate: false
-  xy: 0,500
-  size: 100,100
-  orig: 100,100
+  xy: 0, 512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Nikelino6.png
+  rotate: false
+  xy: 512, 512
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 Rome.png
   rotate: false
-  xy: 0,600
-  size: 100,100
-  orig: 100,100
+  xy: 1024, 512
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Shardana
   rotate: false
-  xy: 0,700
-  size: 100,99
-  orig: 100,99
+  xy: 1536, 512
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+Shardana2.png
+  rotate: false
+  xy: 0, 1024
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+Sith1.png
+  rotate: false
+  xy: 512, 1024
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Sith
   rotate: false
-  xy: 0,799
-  size: 100,100
-  orig: 100,100
+  xy: 1024, 1024
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Ichnusa
   rotate: false
-  xy: 0,899
-  size: 128,128
-  orig: 128,128
+  xy: 1536, 1024
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 ReligionIcons/Lato Oscuro
   rotate: false
-  xy: 0,1027
-  size: 128,128
-  orig: 128,128
+  xy: 0, 1536
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 ReligionIcons/Orgasmo di Ele
   rotate: false
-  xy: 0,1155
-  size: 100,100
-  orig: 100,100
+  xy: 512, 1536
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Apprendista_Sith_1.png
+  rotate: false
+  xy: 1024, 1536
+  size: 512, 512
+  orig: 512, 512
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Apprendista Sith
   rotate: false
-  xy: 0,1255
-  size: 200,200
-  orig: 200,200
+  xy: 1536, 1536
+  size: 512, 419
+  orig: 512, 419
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gigante
   rotate: false
-  xy: 0,1455
-  size: 200,200
-  orig: 200,200
+  xy: 0, 2048
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Guerriero sardo
   rotate: false
-  xy: 0,1655
-  size: 200,200
-  orig: 200,200
+  xy: 512, 2048
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Guerriero_sardo2.png
+  rotate: false
+  xy: 1024, 2048
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jana
   rotate: false
-  xy: 0,1855
-  size: 200,200
-  orig: 200,200
+  xy: 1536, 2048
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Nora Madre dei Draghi
   rotate: false
-  xy: 0,2055
-  size: 200,200
-  orig: 200,200
+  xy: 0, 2560
+  size: 365, 199
+  orig: 365, 199
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Oscuro Signore
   rotate: false
-  xy: 0,2255
-  size: 200,200
-  orig: 200,200
+  xy: 512, 2560
+  size: 512, 464
+  orig: 512, 464
+  offset: 0, 0
+  index: -1
+Oscuro_Signore_2.png
+  rotate: false
+  xy: 1024, 2560
+  size: 512, 497
+  orig: 512, 497
+  offset: 0, 0
+  index: -1
+Oscuro_Signore_3.png
+  rotate: false
+  xy: 1536, 2560
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Oscuro_Signore_4.png
+  rotate: false
+  xy: 0, 3072
+  size: 512, 304
+  orig: 512, 304
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Paolo Magno
   rotate: false
-  xy: 0,2455
-  size: 200,200
-  orig: 200,200
+  xy: 512, 3072
+  size: 465, 348
+  orig: 465, 348
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Sacerdotessa Lupa
   rotate: false
-  xy: 0,2655
-  size: 200,200
-  orig: 200,200
+  xy: 1024, 3072
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Schiavo Oscuro Signore
   rotate: false
-  xy: 0,2855
-  size: 200,200
-  orig: 200,200
+  xy: 1536, 3072
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Domu de Janas
   rotate: false
-  xy: 0,3055
-  size: 35,35
-  orig: 35,35
+  xy: 0, 3584
+  size: 35, 35
+  orig: 35, 35
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Nuraghe
   rotate: false
-  xy: 0,3090
-  size: 35,35
-  orig: 35,35
+  xy: 512, 3584
+  size: 35, 35
+  orig: 35, 35
   offset: 0, 0
   index: -1
+
+

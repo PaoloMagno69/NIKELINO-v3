@@ -35,7 +35,7 @@
 	},	
 	{
 		"name": "Nora Madre dei Draghi", /* Immagine DA IMPOSTARE */
-		"imageScale": 3,
+		"imageScale": 10,
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 17,

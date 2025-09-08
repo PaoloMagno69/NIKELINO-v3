@@ -181,6 +181,7 @@
 	   },
 	   {
 		"name": "Jana",
+		   "imageScale": 0.6,
 		"unitType": "Civilian",
 		"uniqueTo": "Shardana",
 		"cost": 60,
@@ -319,7 +320,7 @@
 	},
 	{
 		"name": "Guerriero sardo",
-		"imageScale": 1,
+		"imageScale": 0.9,
 		"unitType": "Sword",
 		"uniqueTo": "Shardana",
 		"replaces": "Warrior",

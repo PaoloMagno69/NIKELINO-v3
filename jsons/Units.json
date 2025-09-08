@@ -319,7 +319,7 @@
 	},
 	{
 		"name": "Guerriero sardo",
-		"imageScale": 1.5,
+		"imageScale": 1,
 		"unitType": "Sword",
 		"uniqueTo": "Shardana",
 		"replaces": "Warrior",
